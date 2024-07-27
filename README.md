@@ -1,4 +1,5 @@
-# AI312-Language-Modelling
+# AI312-Language-Modelling 🏗💾
+
 ## Overview 🌐
 In the field of natural language processing (NLP), a **language model** is a statistical model that aims to capture the probability distribution of a sequence of words or tokens based on certain given datesets . **A bi-gram language model** is a specific type of n-gram language model, where n=2. It considers the probability of a word given the previous word. In a bi-gram language model, the probability of a word is only conditioned on the previous word, so the formula will be :
 
